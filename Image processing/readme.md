@@ -1,0 +1,1 @@
+This image processing folder is my old coding when learning of image processing by take pixels and plotting some histrogram distribution find threshold to get the best value for make image compare with auto threshould of matlab function
